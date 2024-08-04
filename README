@@ -1,0 +1,25 @@
+﻿Ben's Checkers Server Library
+=================================
+
+This library is used for creating Ben's Checkers servers. 
+It will manage players, configuration, and mods for you 
+while still allowing full control over the backend.
+
+For new players looking to set up a server quick, fast, 
+and without code, this is not the repository for you.
+You should see the "Checkers Basic Server" link below.
+
+Resources
+=================================
+Checkers Basic Server: [COMING SOON]
+	Basic Server provides a complete server setup that
+	will act as a standard Checkers Server. It does not
+	contain any mod packs and is just classic checkers.
+
+Server Library: https://github.com/bcheckers/server
+	This .DLL can be imported into a C# File to build
+	your own server from the ground up. It contains
+	all the necessary components to manage the server,
+	and lets you manage your own mods, rulesets, and more.
+
+	[note: You Are Here]
